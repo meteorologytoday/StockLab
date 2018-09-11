@@ -1,0 +1,657 @@
+- {Exchange: NYQ, Name: Barnes Group Inc., Ticker: B, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Berry Petroleum Corporation, Ticker: BRY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: VAN, Name: Baroyeca Gold & Silver Inc., Ticker: BGS.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: VAN, Name: Blackrock Gold Corp., Ticker: BRC.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: ASX, Name: Blue Sky Alternatives Access Fund Ltd, Ticker: BAF.AX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: LSE, Name: Bakkavor Group plc, Ticker: BAKK.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: ASX, Name: Black Cat Syndicate Limited, Ticker: BC8.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: SES, Name: BRC Asia Limited, Ticker: BEC.SI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Singapore}
+- {Exchange: ASX, Name: BlackEarth Minerals NL, Ticker: BEM.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: Beston Global Food Company Limited, Ticker: BFC.AX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: NYQ, Name: Citigroup Inc., Ticker: C, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: VAN, Name: Colibri Resource Corporation, Ticker: CBI.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: LSE, Name: Circassia Pharmaceuticals Plc, Ticker: CIR.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: LSE, Name: Countryside Properties PLC, Ticker: CSP.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: VAN, Name: CEMATRIX Corporation, Ticker: CVX.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: FRA, Name: CTS Eventim AG & Co. KGaA, Ticker: EVD.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: LSE, Name: ContourGlobal plc, Ticker: GLO.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: ENX, Name: Cast SA, Ticker: CAS.PA, Type: S, TypeDisplay: Equity, exchangeDisplay: Euronext}
+- {Exchange: ASX, Name: Catapult Group International Limited, Ticker: CAT.AX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: ASX, Name: CML Group Limited, Ticker: CGR.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: NYQ, Name: 'Dominion Energy, Inc.', Ticker: D, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Endava plc, Ticker: DAVA, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: FRA, Name: Deutsche Post AG, Ticker: DPW.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: LSE, Name: Downing Strategic Micro-Cap Investment Trust PLC, Ticker: DSM.L,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: London}
+- {Exchange: PAR, Name: DBV Technologies S.A., Ticker: DBV.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Paris}
+- {Exchange: ENX, Name: DNXCorp SE, Ticker: DNX.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Euronext}
+- {Exchange: KSC, Name: 'DUAL Co.,Ltd.', Ticker: 016740.KS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Korea}
+- {Exchange: KOE, Name: 'DAEA TI Co., Ltd.', Ticker: 045390.KQ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: KOSDAQ}
+- {Exchange: KOE, Name: 'Dongwoo Farm To Table Co.,Ltd', Ticker: 088910.KQ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: KOSDAQ}
+- {Exchange: KOE, Name: 'DaeChang Solution Co., Ltd.', Ticker: 096350.KQ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: KOSDAQ}
+- {Exchange: NYQ, Name: Eni S.p.A., Ticker: E, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: PNK, Name: 'EnXnet, Inc.', Ticker: EXNT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: VAN, Name: Emerald Bay Energy Inc., Ticker: EBY.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: LSE, Name: Equiniti Group plc, Ticker: EQN.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: LSE, Name: Eddie Stobart Logistics plc, Ticker: ESL.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: LSE, Name: Empiric Student Property plc, Ticker: ESP.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: FRA, Name: Evonik Industries AG, Ticker: EVK.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: SES, Name: Eindec Corporation Limited, Ticker: 42Z.SI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Singapore}
+- {Exchange: NYQ, Name: Ford Motor Company, Ticker: F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Farfetch Ltd, Ticker: FTCH, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: LSE, Name: Fox Marble Holdings PLC, Ticker: FOX.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: LSE, Name: Funding Circle SME Income Fund Limited, Ticker: FCIF.L, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: London}
+- {Exchange: LSE, Name: Fevertree Drinks Plc, Ticker: FEVR.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: ASX, Name: Freehill Mining Limited, Ticker: FHS.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: LSE, Name: Forterra plc, Ticker: FORT.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: LSE, Name: Foxtons Group plc, Ticker: FOXT.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: ASX, Name: Fat Prophets Global Contrarian Fund Ltd, Ticker: FPC.AX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: PAR, Name: Union Technologies Informatique Group S.A., Ticker: FPG.PA,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Paris}
+- {Exchange: NYQ, Name: Genpact Limited, Ticker: G, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: LSE, Name: Georgia Healthcare Group PLC, Ticker: GHG.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: LSE, Name: Global Ports Holding Plc, Ticker: GPH.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: VAN, Name: Grizzly Discoveries Inc, Ticker: GZD.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: YHD, Name: Greencoat UK Wind PLC, Ticker: UKW.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Industry}
+- {Exchange: SES, Name: Goodland Group Limited, Ticker: 5PC.SI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Singapore}
+- {Exchange: ASX, Name: Genworth Mortgage Insurance Australia Limited, Ticker: GMA.AX,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: ASX, Name: Getswift Limited, Ticker: GSW.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: Gateway Lifestyle Group Stapled Securities, Ticker: GTY.AX,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: NYQ, Name: Hyatt Hotels Corporation, Ticker: H, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: LSE, Name: Harwood Wealth Management Group plc, Ticker: HW.L, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: London}
+- {Exchange: FRA, Name: HelloFresh SE, Ticker: HFG.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: SES, Name: Ho Bee Land Limited, Ticker: H13.SI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Singapore}
+- {Exchange: YHD, Name: Henderson International Income Trust, Ticker: HINT.L, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Industry}
+- {Exchange: TAI, Name: Highwealth Construction Corp., Ticker: 2542.TW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Taiwan}
+- {Exchange: TAI, Name: HY Electronic (Cayman) Limited, Ticker: 6573.TW, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Taiwan}
+- {Exchange: TAI, Name: 'Holiday Entertainment Co.,Ltd', Ticker: 9943.TW, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Taiwan}
+- {Exchange: SHZ, Name: 'Hubei Energy Group Co., Ltd.', Ticker: 000883.SZ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Shenzhen}
+- {Exchange: SHZ, Name: 'Hunan Jingfeng Pharmaceutical Co., Ltd.', Ticker: 000908.SZ,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shenzhen}
+- {Exchange: NYQ, Name: Intelsat S.A., Ticker: I, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: SET, Name: IT CITY Public Company Limited, Ticker: IT.BK, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: SET}
+- {Exchange: SES, Name: ISOTeam Ltd., Ticker: 5WF.SI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Singapore}
+- {Exchange: ENX, Name: ID Logistics Group SA, Ticker: IDL.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Euronext}
+- {Exchange: ASX, Name: IDP Education Limited, Ticker: IEL.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: IVE Group Limited, Ticker: IGL.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ENX, Name: Infotel SA, Ticker: INF.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Euronext}
+- {Exchange: NZE, Name: Investore Property Limited, Ticker: IPL.NZ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: New Zealand}
+- {Exchange: LSE, Name: ICG-Longbow Senior Secured UK Property Debt Investments Ltd,
+  Ticker: LBOW.L, Type: S, TypeDisplay: Equity, exchangeDisplay: London}
+- {Exchange: TAI, Name: Innolux Corporation, Ticker: 3481.TW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Taiwan}
+- {Exchange: NGM, Name: Aurora Mobile Limited, Ticker: JG, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: SES, Name: Jumbo Group Limited, Ticker: 42R.SI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Singapore}
+- {Exchange: ASX, Name: Jiajiafu Modern Agriculture Limited, Ticker: JJF.AX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: PAR, Name: Archos S.A., Ticker: JXR.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Paris}
+- {Exchange: KOE, Name: 'JOONGANG LIVING TECH Co., Ltd', Ticker: 051980.KQ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: KOSDAQ}
+- {Exchange: KOE, Name: 'Jiransecurity Co.,Ltd', Ticker: 208350.KQ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: KOSDAQ}
+- {Exchange: SHH, Name: 'Jilin Sino-Microelectronics Co., Ltd.', Ticker: 600360.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Jiangsu Hongdou Industrial Co., Ltd', Ticker: 600400.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Jiangxi Changyun Co., Ltd.', Ticker: 600561.SS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Jianmin Pharmaceutical Group Co., Ltd.', Ticker: 600976.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: NYQ, Name: Kellogg Company, Ticker: K, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: SES, Name: KLW Holdings Limited, Ticker: 504.SI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Singapore}
+- {Exchange: KLS, Name: KEY ASIC BHD, Ticker: 0143.KL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Kuala Lumpur Stock Exchange}
+- {Exchange: KLS, Name: KBES Bhd., Ticker: 5079.KL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Kuala Lumpur Stock Exchange}
+- {Exchange: SET, Name: Kiattana Transport Public Company Limited, Ticker: KIAT.BK,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: SET}
+- {Exchange: EBS, Name: Klingelnberg AG, Ticker: KLIN.SW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Swiss}
+- {Exchange: KOE, Name: KB No.11 Special Purpose Acquisition Company, Ticker: 258790.KQ,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: KOSDAQ}
+- {Exchange: KOE, Name: 'Korea Arlico Pharm Co.,Ltd.', Ticker: 260660.KQ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: KOSDAQ}
+- {Exchange: KOE, Name: Kyobo 7 Special Purpose Acquisition Company, Ticker: 267320.KQ,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: KOSDAQ}
+- {Exchange: KOE, Name: 'Korea No.5 Special Purpose Acquisition Co., Ltd.', Ticker: 271740.KQ,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: KOSDAQ}
+- {Exchange: NYQ, Name: Loews Corporation, Ticker: L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: ENX, Name: Groupe LDLC, Ticker: LDL.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Euronext}
+- {Exchange: NZE, Name: Livestock Improvement Corporation Limited, Ticker: LIC.NZ,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: New Zealand}
+- {Exchange: ENX, Name: Linedata Services S.A., Ticker: LIN.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Euronext}
+- {Exchange: ASX, Name: Link Administration Holdings Limited, Ticker: LNK.AX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: ASX, Name: Lithium Power International Limited, Ticker: LPI.AX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: AMS, Name: Lucas Bols N.V., Ticker: BOLS.AS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Amsterdam}
+- {Exchange: SET, Name: LH Shopping Centers Leasehold Real Estate Investment Trust,
+  Ticker: LHSC.BK, Type: S, TypeDisplay: Equity, exchangeDisplay: SET}
+- {Exchange: AMS, Name: Signify N.V., Ticker: LIGHT.AS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Amsterdam}
+- {Exchange: NYQ, Name: 'Macy''s, Inc.', Ticker: M, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: FRA, Name: Mobotix AG, Ticker: MBQ.F, Type: S, TypeDisplay: Equity, exchangeDisplay: Frankfurt}
+- {Exchange: LSE, Name: Marshall Motor Holdings Plc, Ticker: MMH.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: VAN, Name: Mammoth Resources Corp., Ticker: MTH.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: SET, Name: M.C.S. Steel Public Company Limited, Ticker: MCS.BK, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: SET}
+- {Exchange: ASX, Name: Mako Gold Limited, Ticker: MKG.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: MyFiziq Limited, Ticker: MYQ.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: SAU, Name: Malath Cooperative Insurance and Reinsurance Company, Ticker: 8020.SR,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Saudi Stock Exchange}
+- {Exchange: SET, Name: Master Ad Public Company Limited, Ticker: MACO.BK, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: SET}
+- {Exchange: IST, Name: MLP Saglik Hizmetleri A.S., Ticker: MPARK.IS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: IST}
+- {Exchange: ASX, Name: Northern Cobalt Limited, Ticker: N27.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: NB Global Corporate Income, Ticker: NBI.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: Nanollose Limited, Ticker: NC6.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: Netccentric Limited, Ticker: NCL.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: Nine Entertainment Co. Holdings Limited, Ticker: NEC.AX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: TOR, Name: Neo Performance Materials Inc., Ticker: NEO.TO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Toronto}
+- {Exchange: LSE, Name: Nexus Infrastructure plc, Ticker: NEXS.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: TOR, Name: NFI Group Inc., Ticker: NFI.TO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Toronto}
+- {Exchange: SET, Name: Nok Airlines Public Company Limited, Ticker: NOK.BK, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: SET}
+- {Exchange: ASX, Name: National Storage REIT, Ticker: NSR.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: NYQ, Name: Realty Income Corporation, Ticker: O, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: SES, Name: Oceanus Group Limited, Ticker: 579.SI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Singapore}
+- {Exchange: ASX, Name: OtherLevels Holdings Limited, Ticker: OLV.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ENX, Name: OSE Immunotherapeutics SA, Ticker: OSE.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Euronext}
+- {Exchange: SAO, Name: "Omega Gera\xE7\xE3o S.A.", Ticker: OMGE3.SA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Sao Paolo}
+- {Exchange: KSC, Name: 'Orange Life Insurance, Ltd.', Ticker: 079440.KS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Korea}
+- {Exchange: KOE, Name: 'ODTech Co., Ltd.', Ticker: 080520.KQ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: KOSDAQ}
+- {Exchange: NMS, Name: Opera Limited, Ticker: OPRA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: CCC, Name: OmiseGo EUR, Ticker: OMG-EUR, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: OmiseGo INR, Ticker: OMG-INR, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: NYS, Name: 'Pandora Media, Inc.', Ticker: P, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: VAN, Name: ProntoForms Corporation, Ticker: PFM.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: VAN, Name: Prosper Gold Corp., Ticker: PGX.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: ASX, Name: Plato Income Maximiser Limited, Ticker: PL8.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: Pioneer Credit Limited, Ticker: PNC.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: LSE, Name: Polymetal International Plc, Ticker: POLY.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: ASX, Name: PayGroup Limited, Ticker: PYG.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: PAR, Name: Pierre & Vacances SA, Ticker: VAC.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Paris}
+- {Exchange: JKT, Name: PT Bank Harda Internasional Tbk, Ticker: BBHI.JK, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Jakarta}
+- {Exchange: JKT, Name: PT Pembangunan Perumahan (Persero) Tbk, Ticker: PTPP.JK, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Jakarta}
+- {Exchange: NGM, Name: QUTOUTIAO INC., Ticker: QTT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: CCC, Name: QTUM USD, Ticker: QTUM-USD, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Quoine Liquid USD, Ticker: QASH-USD, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Quoine Liquid EUR, Ticker: QASH-EUR, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: QTUM CAD, Ticker: QTUM-CAD, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Quantum Resistant Ledger KRW, Ticker: QRL-KRW, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Quoine Liquid BTC, Ticker: QASH-BTC, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Quoine Liquid ETH, Ticker: QASH-ETH, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Quoine Liquid KRW, Ticker: QASH-KRW, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: QTUM AUD, Ticker: QTUM-AUD, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: NYQ, Name: 'Ryder System, Inc.', Ticker: R, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Rubius Therapeutics, Inc.', Ticker: RUBY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: LSE, Name: Regional REIT Limited, Ticker: RGL.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: LSE, Name: Riverstone Energy Limited, Ticker: RSE.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: ASX, Name: Regis Healthcare Limited, Ticker: REG.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: 'Retech Technology Co., Limited', Ticker: RTE.AX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: JKT, Name: PT Nippon Indosari Corpindo Tbk, Ticker: ROTI.JK, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Jakarta}
+- {Exchange: SET, Name: Ratchaburi Electricity Generating Holding Public Company Limited,
+  Ticker: RATCH.BK, Type: S, TypeDisplay: Equity, exchangeDisplay: SET}
+- {Exchange: KOE, Name: 'Russell Co., Ltd.', Ticker: 217500.KQ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: KOSDAQ}
+- {Exchange: NGM, Name: 'Replimune Group, Inc.', Ticker: REPL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Sprint Corporation, Ticker: S, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: FRA, Name: Stemmer Imaging AG, Ticker: S9I.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: FRA, Name: Shop Apotheke Europe N.V., Ticker: SAE.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: SET, Name: SC Asset Corporation Public Company Limited, Ticker: SC.BK,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: SET}
+- {Exchange: ASX, Name: Star Combo Pharma Limited, Ticker: S66.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: VAN, Name: Sarment Holding Limited, Ticker: SAIS.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: JNB, Name: Spear Reit Limited, Ticker: SEA.JO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Johannesburg Stock Exchange}
+- {Exchange: ASX, Name: SG Fleet Group Limited, Ticker: SGF.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: JNB, Name: Sea Harvest Group Limited, Ticker: SHG.JO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Johannesburg Stock Exchange}
+- {Exchange: LSE, Name: Sherborne Investors (Guernsey) C Limited, Ticker: SIGC.L,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: London}
+- {Exchange: NYQ, Name: AT&T Inc., Ticker: T, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: VAN, Name: Trenchant Capital Corp., Ticker: TCC.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: VAN, Name: Transition Metals Corp., Ticker: XTM.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: ASX, Name: Trimantium GrowthOps Limited, Ticker: TGO.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: SET, Name: Thonburi Healthcare Group Public Company Limited, Ticker: THG.BK,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: SET}
+- {Exchange: LSE, Name: Target Healthcare REIT Limited, Ticker: THRL.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: ASX, Name: Tietto Minerals Limited, Ticker: TIE.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: Telstra Corporation Limited, Ticker: TLS.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: Tando Resources Limited, Ticker: TNO.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: SES, Name: Thai Beverage Public Company Limited, Ticker: Y92.SI, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Singapore}
+- {Exchange: LSE, Name: Unicorn AIM VCT, Ticker: UAV.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: VAN, Name: Urbanfund Corp., Ticker: UFC.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: SET, Name: UOB Kay Hian Securities (Thailand) Public Company Limited,
+  Ticker: UOBKH.BK, Type: S, TypeDisplay: Equity, exchangeDisplay: SET}
+- {Exchange: NMS, Name: Uxin Limited, Ticker: UXIN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: CCC, Name: Ubiq USD, Ticker: UBQ-USD, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Tether ETH, Ticker: USDT-ETH, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Tether EUR, Ticker: USDT-EUR, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Tether KRW, Ticker: USDT-KRW, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: NYQ, Name: Visa Inc., Ticker: V, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: FRA, Name: Varengold Bank AG, Ticker: VG8.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: LSE, Name: VR Education Holdings Plc, Ticker: VRE.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: FRA, Name: VTG Aktiengesellschaft, Ticker: VT9.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: FRA, Name: Varta AG, Ticker: VAR1.F, Type: S, TypeDisplay: Equity, exchangeDisplay: Frankfurt}
+- {Exchange: LSE, Name: Vertu Capital Limited, Ticker: VCBC.L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: London}
+- {Exchange: ENX, Name: Veolia Environnement S.A., Ticker: VIE.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Euronext}
+- {Exchange: ASX, Name: Virtus Health Limited, Ticker: VRT.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: TAI, Name: 'VIA Technologies, Inc.', Ticker: 2388.TW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Taiwan}
+- {Exchange: NYQ, Name: Wayfair Inc., Ticker: W, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: VAN, Name: Westminster Resources Ltd., Ticker: WMR.V, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: CDNX}
+- {Exchange: ASX, Name: West African Resources Limited, Ticker: WAF.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: WhiteHawk Limited, Ticker: WHK.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: PAR, Name: Worldline S.A., Ticker: WLN.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Paris}
+- {Exchange: ASX, Name: Windlab Limited, Ticker: WND.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: SET, Name: WICE Logistics Public Company Limited, Ticker: WICE.BK, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: SET}
+- {Exchange: KOE, Name: 'Woowon Development Co., Ltd.', Ticker: 046940.KQ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: KOSDAQ}
+- {Exchange: KOE, Name: 'Woorison F&G Co., Ltd.', Ticker: 073560.KQ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: KOSDAQ}
+- {Exchange: KOE, Name: 'Wooree ETI Co., Ltd.', Ticker: 082850.KQ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: KOSDAQ}
+- {Exchange: NYQ, Name: United States Steel Corporation, Ticker: X, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: OSL, Name: XXL ASA, Ticker: XXL.OL, Type: S, TypeDisplay: Equity, exchangeDisplay: Oslo}
+- {Exchange: BRU, Name: Xior Student Housing NV, Ticker: XIOR.BR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Brussels Stock Exchange}
+- {Exchange: SHH, Name: 'Xinjiang Qingsong Building Materials and Chemicals (Group)
+    Co.,Ltd.', Ticker: 600425.SS, Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Xinjiang Torch Gas Co., Ltd.', Ticker: 603080.SS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Xinfengming Group Co.,Ltd.', Ticker: 603225.SS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Xinjiang Xuefeng Sci-Tech (Group) Co., Ltd.', Ticker: 603227.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: HKG, Name: Xiaomi Corporation, Ticker: 1810.HK, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Hong Kong}
+- {Exchange: SHH, Name: 'Xinjiang East Universe (Group) Gas Co., Ltd.', Ticker: 603706.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: NYQ, Name: Alleghany Corporation, Ticker: Y, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Y-MABS THERAPEUTICS, INC.', Ticker: YMAB, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: SES, Name: Singapore Myanmar Investco Limited, Ticker: Y45.SI, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Singapore}
+- {Exchange: SHH, Name: 'Y.U.D.Yangtze River Investment Industry Co.,Ltd.', Ticker: 600119.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Yonghui Superstores Co., Ltd.', Ticker: 601933.SS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'YAPP Automotive Systems Co., Ltd.', Ticker: 603013.SS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Yongji Printing Co.,Ltd.', Ticker: 603058.SS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Youon Technology Co., Ltd.', Ticker: 603776.SS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: NGM, Name: '111, Inc.', Ticker: YI, Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: 'Zillow Group, Inc.', Ticker: Z, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: OSL, Name: Zalaris ASA, Ticker: ZAL.OL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Oslo}
+- {Exchange: KOE, Name: 'ZAIGLE Co., Ltd.', Ticker: 234920.KQ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: KOSDAQ}
+- {Exchange: SHH, Name: 'Zhejiang Juhua Co., Ltd.', Ticker: 600160.SS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Zhongnongfa Seed Industry Group Co., Ltd.', Ticker: 600313.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: Zhengzhou Coal Mining Machinery Group Company Limited, Ticker: 601717.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Zhejiang Wansheng Co., Ltd.', Ticker: 603010.SS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Zhe Jiang Taihua New Material Co., Ltd.', Ticker: 603055.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Zhejiang Dafeng Industrial Co., Ltd.', Ticker: 603081.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Zhejiang Meilun Elevator Co., Ltd.', Ticker: 603321.SS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: NYQ, Name: The Boeing Company, Ticker: BA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: ASX, Name: Baumart Holdings Limited, Ticker: BMH.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: ASX, Name: Bailador Technology Investments Limited, Ticker: BTI.AX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Australian}
+- {Exchange: PAR, Name: Balyo S.A., Ticker: BALYO.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Paris}
+- {Exchange: SHH, Name: 'Baoding Tianwei Baobian Electric Co., Ltd.', Ticker: 600550.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Bank of Shanghai Co., Ltd.', Ticker: 601229.SS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Bank of Chengdu Co., Ltd.', Ticker: 601838.SS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Shanghai}
+- {Exchange: NYQ, Name: BlackBerry Limited, Ticker: BB, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: Bed Bath & Beyond Inc., Ticker: BBBY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'Best Buy Co., Inc.', Ticker: BBY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: Black Box Corporation, Ticker: BBOX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: BB&T Corporation, Ticker: BBT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Banco Bilbao Vizcaya Argentaria, S.A.', Ticker: BBVA, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: TOR, Name: Bombardier Inc., Ticker: BBD-B.TO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Toronto}
+- {Exchange: NYQ, Name: "BBVA Banco Franc\xE9s S.A.", Ticker: BFR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Banco Bradesco S.A., Ticker: BBD, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Brunswick Corporation, Ticker: BC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: CCC, Name: BitConnect Coin BTC, Ticker: BCCOIN-BTC, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: ByteCoin ETH, Ticker: BCN-ETH, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: BitConnect Coin AUD, Ticker: BCCOIN-AUD, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: ByteCoin AUD, Ticker: BCN-AUD, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Bitcoin Cash / BCC JPY, Ticker: BCH-JPY, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Bitcoin Cash / BCC RUB, Ticker: BCH-RUB, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: ByteCoin GBP, Ticker: BCN-GBP, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: ByteCoin INR, Ticker: BCN-INR, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: NMS, Name: 'BioDelivery Sciences International, Inc.', Ticker: BDSI,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'Becton, Dickinson and Company', Ticker: BDX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: PNK, Name: Bombardier Inc., Ticker: BDRBF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NAS, Name: Baron Discovery Retail, Ticker: BDFFX, Type: M, TypeDisplay: Fund,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: UBS ETRACS 2xLvg Lng WF Busn Dev Co ETN, Ticker: BDCL, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Belden Inc., Ticker: BDC, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Blonder Tongue Laboratories, Inc.', Ticker: BDR, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: PNK, Name: Bahamas Development Corporation, Ticker: BDCI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NYQ, Name: BlackRock Enhanced Equity Dividend Trust, Ticker: BDJ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: PNK, Name: Banco do Brasil S.A., Ticker: BDORY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NYS, Name: Bloom Energy Corporation, Ticker: BE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: OSL, Name: BerGenBio ASA, Ticker: BGBIO.OL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Oslo}
+- {Exchange: SHH, Name: 'Beijing Vantone Real Estate Co., Ltd.', Ticker: 600246.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHH, Name: 'Beijing Tricolor Technology Co., Ltd', Ticker: 603516.SS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shanghai}
+- {Exchange: SHZ, Name: 'Beijing Emerging Eastern Aviation Equipment Co., Ltd.', Ticker: 002933.SZ,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Shenzhen}
+- {Exchange: NYQ, Name: Berkshire Hathaway Inc., Ticker: BRK-B, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Brown-Forman Corporation, Ticker: BF-B, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Brown-Forman Corporation, Ticker: BF-A, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Brown-Forman Corporation, Ticker: BFB, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NAS, Name: Berkshire Focus, Ticker: BFOCX, Type: M, TypeDisplay: Fund,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Bright Horizons Family Solutions Inc., Ticker: BFAM, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: BankFinancial Corporation, Ticker: BFIN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'Saul Centers, Inc.', Ticker: BFS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: BlackRock Municipal Income Trust, Ticker: BFK, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Bunge Limited, Ticker: BG, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: ASX, Name: Bligh Resources Limited, Ticker: BGH.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: KSC, Name: 'BGF Co., Ltd.', Ticker: 027410.KS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Korea}
+- {Exchange: NYQ, Name: 'B&G Foods, Inc.', Ticker: BGS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NAS, Name: 'BeiGene, Ltd.', Ticker: BGNE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: 'BGC Partners, Inc.', Ticker: BGCP, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: Big 5 Sporting Goods Corporation, Ticker: BGFV, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Briggs & Stratton Corporation, Ticker: BGG, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Biglari Holdings Inc., Ticker: BH, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: ASX, Name: Boyuan Holdings Limited, Ticker: BHL.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: NYQ, Name: Bausch Health Companies Inc., Ticker: BHC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Baker Hughes, a GE company', Ticker: BHGE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: BHP Billiton Limited, Ticker: BHP, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'Brighthouse Financial, Inc.', Ticker: BHF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: BHP Billiton plc, Ticker: BBL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: ASX, Name: BHP Billiton Limited, Ticker: BHP.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: NYQ, Name: 'Braemar Hotels & Resorts, Inc.', Ticker: BHR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'BioHiTech Global, Inc.', Ticker: BHTG, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: ENX, Name: BigBen Interactive, Ticker: BIG.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Euronext}
+- {Exchange: ENX, Name: "bioM\xE9rieux S.A.", Ticker: BIM.PA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Euronext}
+- {Exchange: ASX, Name: BigTinCan Holdings Limited, Ticker: BTH.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: KOE, Name: 'Biolog Device Co., Ltd.', Ticker: 208710.KQ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: KOSDAQ}
+- {Exchange: CCC, Name: Bitcoin Gold USD, Ticker: BTG-USD, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Bitcoin KRW, Ticker: BTC-KRW, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Bitcoin CNY, Ticker: BTC-CNY, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: CCC, Name: Binance Coin AUD, Ticker: BNB-AUD, Type: B, TypeDisplay: CRYPTOCURRENCY,
+  exchangeDisplay: CCC}
+- {Exchange: NYQ, Name: 'BJ''s Wholesale Club Holdings, Inc.', Ticker: BJ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'BJ''s Restaurants, Inc.', Ticker: BJRI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: ASE, Name: iPath B Bloomberg Coffee Ttl Ret ETN, Ticker: BJO, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NYSE MKT}
+- {Exchange: NYQ, Name: VanEck Vectors Gaming ETF, Ticker: BJK, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NYSE}
+- {Exchange: BTS, Name: Innovator S&P 500 Buffer ETF July, Ticker: BJUL, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: BATS Trading}
+- {Exchange: JKT, Name: PT Bank Pembangunan Daerah Jawa Timur Tbk, Ticker: BJTM.JK,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Jakarta}
+- {Exchange: JKT, Name: PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk, Ticker: BJBR.JK,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: Jakarta}
+- {Exchange: SET, Name: Berli Jucker Public Company Limited, Ticker: BJC.BK, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: SET}
+- {Exchange: NYQ, Name: BlackRock California Municipal 2018 Term Trust, Ticker: BJZ,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: SES, Name: Koda Ltd, Ticker: BJZ.SI, Type: S, TypeDisplay: Equity, exchangeDisplay: Singapore}
+- {Exchange: NYQ, Name: The Bank of New York Mellon Corporation, Ticker: BK, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: Booking Holdings Inc., Ticker: BKNG, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'Barnes & Noble, Inc.', Ticker: BKS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'The Buckle, Inc.', Ticker: BKE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Blueknight Energy Partners, L.P.', Ticker: BKEP, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: BlackRock Capital Investment Corporation, Ticker: BKCC, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Brookdale Senior Living Inc., Ticker: BKD, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Black Knight, Inc.', Ticker: BKI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Black Hills Corporation, Ticker: BKH, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: PCX, Name: Invesco Senior Loan ETF, Ticker: BKLN, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NYSEArca}

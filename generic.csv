@@ -1,0 +1,337 @@
+Ticker,Name,Exchange,exchangeDisplay,Type,TypeDisplay
+B,Barnes Group Inc.,NYQ,NYSE,S,Equity
+BRY,Berry Petroleum Corporation,NYQ,NYSE,S,Equity
+BGS.V,Baroyeca Gold & Silver Inc.,VAN,CDNX,S,Equity
+BRC.V,Blackrock Gold Corp.,VAN,CDNX,S,Equity
+BAF.AX,Blue Sky Alternatives Access Fund Ltd,ASX,Australian,S,Equity
+BAKK.L,Bakkavor Group plc,LSE,London,S,Equity
+BC8.AX,Black Cat Syndicate Limited,ASX,Australian,S,Equity
+BEC.SI,BRC Asia Limited,SES,Singapore,S,Equity
+BEM.AX,BlackEarth Minerals NL,ASX,Australian,S,Equity
+BFC.AX,Beston Global Food Company Limited,ASX,Australian,S,Equity
+C,Citigroup Inc.,NYQ,NYSE,S,Equity
+CBI.V,Colibri Resource Corporation,VAN,CDNX,S,Equity
+CIR.L,Circassia Pharmaceuticals Plc,LSE,London,S,Equity
+CSP.L,Countryside Properties PLC,LSE,London,S,Equity
+CVX.V,CEMATRIX Corporation,VAN,CDNX,S,Equity
+EVD.F,CTS Eventim AG & Co. KGaA,FRA,Frankfurt,S,Equity
+GLO.L,ContourGlobal plc,LSE,London,S,Equity
+CAS.PA,Cast SA,ENX,Euronext,S,Equity
+CAT.AX,Catapult Group International Limited,ASX,Australian,S,Equity
+CGR.AX,CML Group Limited,ASX,Australian,S,Equity
+D,"Dominion Energy, Inc.",NYQ,NYSE,S,Equity
+DAVA,Endava plc,NYS,NYSE,S,Equity
+DPW.F,Deutsche Post AG,FRA,Frankfurt,S,Equity
+DSM.L,Downing Strategic Micro-Cap Investment Trust PLC,LSE,London,S,Equity
+DBV.PA,DBV Technologies S.A.,PAR,Paris,S,Equity
+DNX.PA,DNXCorp SE,ENX,Euronext,S,Equity
+016740.KS,"DUAL Co.,Ltd.",KSC,Korea,S,Equity
+045390.KQ,"DAEA TI Co., Ltd.",KOE,KOSDAQ,S,Equity
+088910.KQ,"Dongwoo Farm To Table Co.,Ltd",KOE,KOSDAQ,S,Equity
+096350.KQ,"DaeChang Solution Co., Ltd.",KOE,KOSDAQ,S,Equity
+E,Eni S.p.A.,NYQ,NYSE,S,Equity
+EXNT,"EnXnet, Inc.",PNK,OTC Markets,S,Equity
+EBY.V,Emerald Bay Energy Inc.,VAN,CDNX,S,Equity
+EQN.L,Equiniti Group plc,LSE,London,S,Equity
+ESL.L,Eddie Stobart Logistics plc,LSE,London,S,Equity
+ESP.L,Empiric Student Property plc,LSE,London,S,Equity
+EVK.F,Evonik Industries AG,FRA,Frankfurt,S,Equity
+42Z.SI,Eindec Corporation Limited,SES,Singapore,S,Equity
+F,Ford Motor Company,NYQ,NYSE,S,Equity
+FTCH,Farfetch Ltd,NYS,NYSE,S,Equity
+FOX.L,Fox Marble Holdings PLC,LSE,London,S,Equity
+FCIF.L,Funding Circle SME Income Fund Limited,LSE,London,S,Equity
+FEVR.L,Fevertree Drinks Plc,LSE,London,S,Equity
+FHS.AX,Freehill Mining Limited,ASX,Australian,S,Equity
+FORT.L,Forterra plc,LSE,London,S,Equity
+FOXT.L,Foxtons Group plc,LSE,London,S,Equity
+FPC.AX,Fat Prophets Global Contrarian Fund Ltd,ASX,Australian,S,Equity
+FPG.PA,Union Technologies Informatique Group S.A.,PAR,Paris,S,Equity
+G,Genpact Limited,NYQ,NYSE,S,Equity
+GHG.L,Georgia Healthcare Group PLC,LSE,London,S,Equity
+GPH.L,Global Ports Holding Plc,LSE,London,S,Equity
+GZD.V,Grizzly Discoveries Inc,VAN,CDNX,S,Equity
+UKW.L,Greencoat UK Wind PLC,YHD,Industry,S,Equity
+5PC.SI,Goodland Group Limited,SES,Singapore,S,Equity
+GMA.AX,Genworth Mortgage Insurance Australia Limited,ASX,Australian,S,Equity
+GSW.AX,Getswift Limited,ASX,Australian,S,Equity
+GTY.AX,Gateway Lifestyle Group Stapled Securities,ASX,Australian,S,Equity
+H,Hyatt Hotels Corporation,NYQ,NYSE,S,Equity
+HW.L,Harwood Wealth Management Group plc,LSE,London,S,Equity
+HFG.F,HelloFresh SE,FRA,Frankfurt,S,Equity
+H13.SI,Ho Bee Land Limited,SES,Singapore,S,Equity
+HINT.L,Henderson International Income Trust,YHD,Industry,S,Equity
+2542.TW,Highwealth Construction Corp.,TAI,Taiwan,S,Equity
+6573.TW,HY Electronic (Cayman) Limited,TAI,Taiwan,S,Equity
+9943.TW,"Holiday Entertainment Co.,Ltd",TAI,Taiwan,S,Equity
+000883.SZ,"Hubei Energy Group Co., Ltd.",SHZ,Shenzhen,S,Equity
+000908.SZ,"Hunan Jingfeng Pharmaceutical Co., Ltd.",SHZ,Shenzhen,S,Equity
+I,Intelsat S.A.,NYQ,NYSE,S,Equity
+IT.BK,IT CITY Public Company Limited,SET,SET,S,Equity
+5WF.SI,ISOTeam Ltd.,SES,Singapore,S,Equity
+IDL.PA,ID Logistics Group SA,ENX,Euronext,S,Equity
+IEL.AX,IDP Education Limited,ASX,Australian,S,Equity
+IGL.AX,IVE Group Limited,ASX,Australian,S,Equity
+INF.PA,Infotel SA,ENX,Euronext,S,Equity
+IPL.NZ,Investore Property Limited,NZE,New Zealand,S,Equity
+LBOW.L,ICG-Longbow Senior Secured UK Property Debt Investments Ltd,LSE,London,S,Equity
+3481.TW,Innolux Corporation,TAI,Taiwan,S,Equity
+JG,Aurora Mobile Limited,NGM,NASDAQ,S,Equity
+42R.SI,Jumbo Group Limited,SES,Singapore,S,Equity
+JJF.AX,Jiajiafu Modern Agriculture Limited,ASX,Australian,S,Equity
+JXR.PA,Archos S.A.,PAR,Paris,S,Equity
+051980.KQ,"JOONGANG LIVING TECH Co., Ltd",KOE,KOSDAQ,S,Equity
+208350.KQ,"Jiransecurity Co.,Ltd",KOE,KOSDAQ,S,Equity
+600360.SS,"Jilin Sino-Microelectronics Co., Ltd.",SHH,Shanghai,S,Equity
+600400.SS,"Jiangsu Hongdou Industrial Co., Ltd",SHH,Shanghai,S,Equity
+600561.SS,"Jiangxi Changyun Co., Ltd.",SHH,Shanghai,S,Equity
+600976.SS,"Jianmin Pharmaceutical Group Co., Ltd.",SHH,Shanghai,S,Equity
+K,Kellogg Company,NYQ,NYSE,S,Equity
+504.SI,KLW Holdings Limited,SES,Singapore,S,Equity
+0143.KL,KEY ASIC BHD,KLS,Kuala Lumpur Stock Exchange,S,Equity
+5079.KL,KBES Bhd.,KLS,Kuala Lumpur Stock Exchange,S,Equity
+KIAT.BK,Kiattana Transport Public Company Limited,SET,SET,S,Equity
+KLIN.SW,Klingelnberg AG,EBS,Swiss,S,Equity
+258790.KQ,KB No.11 Special Purpose Acquisition Company,KOE,KOSDAQ,S,Equity
+260660.KQ,"Korea Arlico Pharm Co.,Ltd.",KOE,KOSDAQ,S,Equity
+267320.KQ,Kyobo 7 Special Purpose Acquisition Company,KOE,KOSDAQ,S,Equity
+271740.KQ,"Korea No.5 Special Purpose Acquisition Co., Ltd.",KOE,KOSDAQ,S,Equity
+L,Loews Corporation,NYQ,NYSE,S,Equity
+LDL.PA,Groupe LDLC,ENX,Euronext,S,Equity
+LIC.NZ,Livestock Improvement Corporation Limited,NZE,New Zealand,S,Equity
+LIN.PA,Linedata Services S.A.,ENX,Euronext,S,Equity
+LNK.AX,Link Administration Holdings Limited,ASX,Australian,S,Equity
+LPI.AX,Lithium Power International Limited,ASX,Australian,S,Equity
+BOLS.AS,Lucas Bols N.V.,AMS,Amsterdam,S,Equity
+LHSC.BK,LH Shopping Centers Leasehold Real Estate Investment Trust,SET,SET,S,Equity
+LIGHT.AS,Signify N.V.,AMS,Amsterdam,S,Equity
+M,"Macy's, Inc.",NYQ,NYSE,S,Equity
+MBQ.F,Mobotix AG,FRA,Frankfurt,S,Equity
+MMH.L,Marshall Motor Holdings Plc,LSE,London,S,Equity
+MTH.V,Mammoth Resources Corp.,VAN,CDNX,S,Equity
+MCS.BK,M.C.S. Steel Public Company Limited,SET,SET,S,Equity
+MKG.AX,Mako Gold Limited,ASX,Australian,S,Equity
+MYQ.AX,MyFiziq Limited,ASX,Australian,S,Equity
+8020.SR,Malath Cooperative Insurance and Reinsurance Company,SAU,Saudi Stock Exchange,S,Equity
+MACO.BK,Master Ad Public Company Limited,SET,SET,S,Equity
+MPARK.IS,MLP Saglik Hizmetleri A.S.,IST,IST,S,Equity
+N27.AX,Northern Cobalt Limited,ASX,Australian,S,Equity
+NBI.AX,NB Global Corporate Income,ASX,Australian,S,Equity
+NC6.AX,Nanollose Limited,ASX,Australian,S,Equity
+NCL.AX,Netccentric Limited,ASX,Australian,S,Equity
+NEC.AX,Nine Entertainment Co. Holdings Limited,ASX,Australian,S,Equity
+NEO.TO,Neo Performance Materials Inc.,TOR,Toronto,S,Equity
+NEXS.L,Nexus Infrastructure plc,LSE,London,S,Equity
+NFI.TO,NFI Group Inc.,TOR,Toronto,S,Equity
+NOK.BK,Nok Airlines Public Company Limited,SET,SET,S,Equity
+NSR.AX,National Storage REIT,ASX,Australian,S,Equity
+O,Realty Income Corporation,NYQ,NYSE,S,Equity
+579.SI,Oceanus Group Limited,SES,Singapore,S,Equity
+OLV.AX,OtherLevels Holdings Limited,ASX,Australian,S,Equity
+OSE.PA,OSE Immunotherapeutics SA,ENX,Euronext,S,Equity
+OMGE3.SA,Omega Geração S.A.,SAO,Sao Paolo,S,Equity
+079440.KS,"Orange Life Insurance, Ltd.",KSC,Korea,S,Equity
+080520.KQ,"ODTech Co., Ltd.",KOE,KOSDAQ,S,Equity
+OPRA,Opera Limited,NMS,NASDAQ,S,Equity
+OMG-EUR,OmiseGo EUR,CCC,CCC,B,CRYPTOCURRENCY
+OMG-INR,OmiseGo INR,CCC,CCC,B,CRYPTOCURRENCY
+P,"Pandora Media, Inc.",NYS,NYSE,S,Equity
+PFM.V,ProntoForms Corporation,VAN,CDNX,S,Equity
+PGX.V,Prosper Gold Corp.,VAN,CDNX,S,Equity
+PL8.AX,Plato Income Maximiser Limited,ASX,Australian,S,Equity
+PNC.AX,Pioneer Credit Limited,ASX,Australian,S,Equity
+POLY.L,Polymetal International Plc,LSE,London,S,Equity
+PYG.AX,PayGroup Limited,ASX,Australian,S,Equity
+VAC.PA,Pierre & Vacances SA,PAR,Paris,S,Equity
+BBHI.JK,PT Bank Harda Internasional Tbk,JKT,Jakarta,S,Equity
+PTPP.JK,PT Pembangunan Perumahan (Persero) Tbk,JKT,Jakarta,S,Equity
+QTT,QUTOUTIAO INC.,NGM,NASDAQ,S,Equity
+QTUM-USD,QTUM USD,CCC,CCC,B,CRYPTOCURRENCY
+QASH-USD,Quoine Liquid USD,CCC,CCC,B,CRYPTOCURRENCY
+QASH-EUR,Quoine Liquid EUR,CCC,CCC,B,CRYPTOCURRENCY
+QTUM-CAD,QTUM CAD,CCC,CCC,B,CRYPTOCURRENCY
+QRL-KRW,Quantum Resistant Ledger KRW,CCC,CCC,B,CRYPTOCURRENCY
+QASH-BTC,Quoine Liquid BTC,CCC,CCC,B,CRYPTOCURRENCY
+QASH-ETH,Quoine Liquid ETH,CCC,CCC,B,CRYPTOCURRENCY
+QASH-KRW,Quoine Liquid KRW,CCC,CCC,B,CRYPTOCURRENCY
+QTUM-AUD,QTUM AUD,CCC,CCC,B,CRYPTOCURRENCY
+R,"Ryder System, Inc.",NYQ,NYSE,S,Equity
+RUBY,"Rubius Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+RGL.L,Regional REIT Limited,LSE,London,S,Equity
+RSE.L,Riverstone Energy Limited,LSE,London,S,Equity
+REG.AX,Regis Healthcare Limited,ASX,Australian,S,Equity
+RTE.AX,"Retech Technology Co., Limited",ASX,Australian,S,Equity
+ROTI.JK,PT Nippon Indosari Corpindo Tbk,JKT,Jakarta,S,Equity
+RATCH.BK,Ratchaburi Electricity Generating Holding Public Company Limited,SET,SET,S,Equity
+217500.KQ,"Russell Co., Ltd.",KOE,KOSDAQ,S,Equity
+REPL,"Replimune Group, Inc.",NGM,NASDAQ,S,Equity
+S,Sprint Corporation,NYQ,NYSE,S,Equity
+S9I.F,Stemmer Imaging AG,FRA,Frankfurt,S,Equity
+SAE.F,Shop Apotheke Europe N.V.,FRA,Frankfurt,S,Equity
+SC.BK,SC Asset Corporation Public Company Limited,SET,SET,S,Equity
+S66.AX,Star Combo Pharma Limited,ASX,Australian,S,Equity
+SAIS.V,Sarment Holding Limited,VAN,CDNX,S,Equity
+SEA.JO,Spear Reit Limited,JNB,Johannesburg Stock Exchange,S,Equity
+SGF.AX,SG Fleet Group Limited,ASX,Australian,S,Equity
+SHG.JO,Sea Harvest Group Limited,JNB,Johannesburg Stock Exchange,S,Equity
+SIGC.L,Sherborne Investors (Guernsey) C Limited,LSE,London,S,Equity
+T,AT&T Inc.,NYQ,NYSE,S,Equity
+TCC.V,Trenchant Capital Corp.,VAN,CDNX,S,Equity
+XTM.V,Transition Metals Corp.,VAN,CDNX,S,Equity
+TGO.AX,Trimantium GrowthOps Limited,ASX,Australian,S,Equity
+THG.BK,Thonburi Healthcare Group Public Company Limited,SET,SET,S,Equity
+THRL.L,Target Healthcare REIT Limited,LSE,London,S,Equity
+TIE.AX,Tietto Minerals Limited,ASX,Australian,S,Equity
+TLS.AX,Telstra Corporation Limited,ASX,Australian,S,Equity
+TNO.AX,Tando Resources Limited,ASX,Australian,S,Equity
+Y92.SI,Thai Beverage Public Company Limited,SES,Singapore,S,Equity
+UAV.L,Unicorn AIM VCT,LSE,London,S,Equity
+UFC.V,Urbanfund Corp.,VAN,CDNX,S,Equity
+UOBKH.BK,UOB Kay Hian Securities (Thailand) Public Company Limited,SET,SET,S,Equity
+UXIN,Uxin Limited,NMS,NASDAQ,S,Equity
+UBQ-USD,Ubiq USD,CCC,CCC,B,CRYPTOCURRENCY
+USDT-ETH,Tether ETH,CCC,CCC,B,CRYPTOCURRENCY
+USDT-EUR,Tether EUR,CCC,CCC,B,CRYPTOCURRENCY
+USDT-KRW,Tether KRW,CCC,CCC,B,CRYPTOCURRENCY
+V,Visa Inc.,NYQ,NYSE,S,Equity
+VG8.F,Varengold Bank AG,FRA,Frankfurt,S,Equity
+VRE.L,VR Education Holdings Plc,LSE,London,S,Equity
+VT9.F,VTG Aktiengesellschaft,FRA,Frankfurt,S,Equity
+VAR1.F,Varta AG,FRA,Frankfurt,S,Equity
+VCBC.L,Vertu Capital Limited,LSE,London,S,Equity
+VIE.PA,Veolia Environnement S.A.,ENX,Euronext,S,Equity
+VRT.AX,Virtus Health Limited,ASX,Australian,S,Equity
+2388.TW,"VIA Technologies, Inc.",TAI,Taiwan,S,Equity
+W,Wayfair Inc.,NYQ,NYSE,S,Equity
+WMR.V,Westminster Resources Ltd.,VAN,CDNX,S,Equity
+WAF.AX,West African Resources Limited,ASX,Australian,S,Equity
+WHK.AX,WhiteHawk Limited,ASX,Australian,S,Equity
+WLN.PA,Worldline S.A.,PAR,Paris,S,Equity
+WND.AX,Windlab Limited,ASX,Australian,S,Equity
+WICE.BK,WICE Logistics Public Company Limited,SET,SET,S,Equity
+046940.KQ,"Woowon Development Co., Ltd.",KOE,KOSDAQ,S,Equity
+073560.KQ,"Woorison F&G Co., Ltd.",KOE,KOSDAQ,S,Equity
+082850.KQ,"Wooree ETI Co., Ltd.",KOE,KOSDAQ,S,Equity
+X,United States Steel Corporation,NYQ,NYSE,S,Equity
+XXL.OL,XXL ASA,OSL,Oslo,S,Equity
+XIOR.BR,Xior Student Housing NV,BRU,Brussels Stock Exchange,S,Equity
+600425.SS,"Xinjiang Qingsong Building Materials and Chemicals (Group) Co.,Ltd.",SHH,Shanghai,S,Equity
+603080.SS,"Xinjiang Torch Gas Co., Ltd.",SHH,Shanghai,S,Equity
+603225.SS,"Xinfengming Group Co.,Ltd.",SHH,Shanghai,S,Equity
+603227.SS,"Xinjiang Xuefeng Sci-Tech (Group) Co., Ltd.",SHH,Shanghai,S,Equity
+1810.HK,Xiaomi Corporation,HKG,Hong Kong,S,Equity
+603706.SS,"Xinjiang East Universe (Group) Gas Co., Ltd.",SHH,Shanghai,S,Equity
+Y,Alleghany Corporation,NYQ,NYSE,S,Equity
+YMAB,"Y-MABS THERAPEUTICS, INC.",NGM,NASDAQ,S,Equity
+Y45.SI,Singapore Myanmar Investco Limited,SES,Singapore,S,Equity
+600119.SS,"Y.U.D.Yangtze River Investment Industry Co.,Ltd.",SHH,Shanghai,S,Equity
+601933.SS,"Yonghui Superstores Co., Ltd.",SHH,Shanghai,S,Equity
+603013.SS,"YAPP Automotive Systems Co., Ltd.",SHH,Shanghai,S,Equity
+603058.SS,"Yongji Printing Co.,Ltd.",SHH,Shanghai,S,Equity
+603776.SS,"Youon Technology Co., Ltd.",SHH,Shanghai,S,Equity
+YI,"111, Inc.",NGM,NASDAQ,S,Equity
+Z,"Zillow Group, Inc.",NMS,NASDAQ,S,Equity
+ZAL.OL,Zalaris ASA,OSL,Oslo,S,Equity
+234920.KQ,"ZAIGLE Co., Ltd.",KOE,KOSDAQ,S,Equity
+600160.SS,"Zhejiang Juhua Co., Ltd.",SHH,Shanghai,S,Equity
+600313.SS,"Zhongnongfa Seed Industry Group Co., Ltd.",SHH,Shanghai,S,Equity
+601717.SS,Zhengzhou Coal Mining Machinery Group Company Limited,SHH,Shanghai,S,Equity
+603010.SS,"Zhejiang Wansheng Co., Ltd.",SHH,Shanghai,S,Equity
+603055.SS,"Zhe Jiang Taihua New Material Co., Ltd.",SHH,Shanghai,S,Equity
+603081.SS,"Zhejiang Dafeng Industrial Co., Ltd.",SHH,Shanghai,S,Equity
+603321.SS,"Zhejiang Meilun Elevator Co., Ltd.",SHH,Shanghai,S,Equity
+BA,The Boeing Company,NYQ,NYSE,S,Equity
+BMH.AX,Baumart Holdings Limited,ASX,Australian,S,Equity
+BTI.AX,Bailador Technology Investments Limited,ASX,Australian,S,Equity
+BALYO.PA,Balyo S.A.,PAR,Paris,S,Equity
+600550.SS,"Baoding Tianwei Baobian Electric Co., Ltd.",SHH,Shanghai,S,Equity
+601229.SS,"Bank of Shanghai Co., Ltd.",SHH,Shanghai,S,Equity
+601838.SS,"Bank of Chengdu Co., Ltd.",SHH,Shanghai,S,Equity
+BB,BlackBerry Limited,NYQ,NYSE,S,Equity
+BBBY,Bed Bath & Beyond Inc.,NMS,NASDAQ,S,Equity
+BBY,"Best Buy Co., Inc.",NYQ,NYSE,S,Equity
+BBOX,Black Box Corporation,NMS,NASDAQ,S,Equity
+BBT,BB&T Corporation,NYQ,NYSE,S,Equity
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",NYQ,NYSE,S,Equity
+BBD-B.TO,Bombardier Inc.,TOR,Toronto,S,Equity
+BFR,BBVA Banco Francés S.A.,NYQ,NYSE,S,Equity
+BBD,Banco Bradesco S.A.,NYQ,NYSE,S,Equity
+BC,Brunswick Corporation,NYQ,NYSE,S,Equity
+BCCOIN-BTC,BitConnect Coin BTC,CCC,CCC,B,CRYPTOCURRENCY
+BCN-ETH,ByteCoin ETH,CCC,CCC,B,CRYPTOCURRENCY
+BCCOIN-AUD,BitConnect Coin AUD,CCC,CCC,B,CRYPTOCURRENCY
+BCN-AUD,ByteCoin AUD,CCC,CCC,B,CRYPTOCURRENCY
+BCH-JPY,Bitcoin Cash / BCC JPY,CCC,CCC,B,CRYPTOCURRENCY
+BCH-RUB,Bitcoin Cash / BCC RUB,CCC,CCC,B,CRYPTOCURRENCY
+BCN-GBP,ByteCoin GBP,CCC,CCC,B,CRYPTOCURRENCY
+BCN-INR,ByteCoin INR,CCC,CCC,B,CRYPTOCURRENCY
+BDSI,"BioDelivery Sciences International, Inc.",NMS,NASDAQ,S,Equity
+BDX,"Becton, Dickinson and Company",NYQ,NYSE,S,Equity
+BDRBF,Bombardier Inc.,PNK,OTC Markets,S,Equity
+BDFFX,Baron Discovery Retail,NAS,NASDAQ,M,Fund
+BDCL,UBS ETRACS 2xLvg Lng WF Busn Dev Co ETN,NYQ,NYSE,E,ETF
+BDC,Belden Inc.,NYQ,NYSE,S,Equity
+BDR,"Blonder Tongue Laboratories, Inc.",NYQ,NYSE,S,Equity
+BDCI,Bahamas Development Corporation,PNK,OTC Markets,S,Equity
+BDJ,BlackRock Enhanced Equity Dividend Trust,NYQ,NYSE,S,Equity
+BDORY,Banco do Brasil S.A.,PNK,OTC Markets,S,Equity
+BE,Bloom Energy Corporation,NYS,NYSE,S,Equity
+BGBIO.OL,BerGenBio ASA,OSL,Oslo,S,Equity
+600246.SS,"Beijing Vantone Real Estate Co., Ltd.",SHH,Shanghai,S,Equity
+603516.SS,"Beijing Tricolor Technology Co., Ltd",SHH,Shanghai,S,Equity
+002933.SZ,"Beijing Emerging Eastern Aviation Equipment Co., Ltd.",SHZ,Shenzhen,S,Equity
+BRK-B,Berkshire Hathaway Inc.,NYQ,NYSE,S,Equity
+BF-B,Brown-Forman Corporation,NYQ,NYSE,S,Equity
+BF-A,Brown-Forman Corporation,NYQ,NYSE,S,Equity
+BFB,Brown-Forman Corporation,NYQ,NYSE,S,Equity
+BFOCX,Berkshire Focus,NAS,NASDAQ,M,Fund
+BFAM,Bright Horizons Family Solutions Inc.,NYQ,NYSE,S,Equity
+BFIN,BankFinancial Corporation,NMS,NASDAQ,S,Equity
+BFS,"Saul Centers, Inc.",NYQ,NYSE,S,Equity
+BFK,BlackRock Municipal Income Trust,NYQ,NYSE,S,Equity
+BG,Bunge Limited,NYS,NYSE,S,Equity
+BGH.AX,Bligh Resources Limited,ASX,Australian,S,Equity
+027410.KS,"BGF Co., Ltd.",KSC,Korea,S,Equity
+BGS,"B&G Foods, Inc.",NYQ,NYSE,S,Equity
+BGNE,"BeiGene, Ltd.",NAS,NASDAQ,S,Equity
+BGCP,"BGC Partners, Inc.",NMS,NASDAQ,S,Equity
+BGFV,Big 5 Sporting Goods Corporation,NMS,NASDAQ,S,Equity
+BGG,Briggs & Stratton Corporation,NYQ,NYSE,S,Equity
+BH,Biglari Holdings Inc.,NYQ,NYSE,S,Equity
+BHL.AX,Boyuan Holdings Limited,ASX,Australian,S,Equity
+BHC,Bausch Health Companies Inc.,NYQ,NYSE,S,Equity
+BHGE,"Baker Hughes, a GE company",NYQ,NYSE,S,Equity
+BHP,BHP Billiton Limited,NYQ,NYSE,S,Equity
+BHF,"Brighthouse Financial, Inc.",NMS,NASDAQ,S,Equity
+BBL,BHP Billiton plc,NYQ,NYSE,S,Equity
+BHP.AX,BHP Billiton Limited,ASX,Australian,S,Equity
+BHR,"Braemar Hotels & Resorts, Inc.",NYQ,NYSE,S,Equity
+BHTG,"BioHiTech Global, Inc.",NMS,NASDAQ,S,Equity
+BIG.PA,BigBen Interactive,ENX,Euronext,S,Equity
+BIM.PA,bioMérieux S.A.,ENX,Euronext,S,Equity
+BTH.AX,BigTinCan Holdings Limited,ASX,Australian,S,Equity
+208710.KQ,"Biolog Device Co., Ltd.",KOE,KOSDAQ,S,Equity
+BTG-USD,Bitcoin Gold USD,CCC,CCC,B,CRYPTOCURRENCY
+BTC-KRW,Bitcoin KRW,CCC,CCC,B,CRYPTOCURRENCY
+BTC-CNY,Bitcoin CNY,CCC,CCC,B,CRYPTOCURRENCY
+BNB-AUD,Binance Coin AUD,CCC,CCC,B,CRYPTOCURRENCY
+BJ,"BJ's Wholesale Club Holdings, Inc.",NYQ,NYSE,S,Equity
+BJRI,"BJ's Restaurants, Inc.",NMS,NASDAQ,S,Equity
+BJO,iPath B Bloomberg Coffee Ttl Ret ETN,ASE,NYSE MKT,E,ETF
+BJK,VanEck Vectors Gaming ETF,NYQ,NYSE,E,ETF
+BJUL,Innovator S&P 500 Buffer ETF July,BTS,BATS Trading,E,ETF
+BJTM.JK,PT Bank Pembangunan Daerah Jawa Timur Tbk,JKT,Jakarta,S,Equity
+BJBR.JK,PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk,JKT,Jakarta,S,Equity
+BJC.BK,Berli Jucker Public Company Limited,SET,SET,S,Equity
+BJZ,BlackRock California Municipal 2018 Term Trust,NYQ,NYSE,S,Equity
+BJZ.SI,Koda Ltd,SES,Singapore,S,Equity
+BK,The Bank of New York Mellon Corporation,NYQ,NYSE,S,Equity
+BKNG,Booking Holdings Inc.,NMS,NASDAQ,S,Equity
+BKS,"Barnes & Noble, Inc.",NYQ,NYSE,S,Equity
+BKE,"The Buckle, Inc.",NYQ,NYSE,S,Equity
+BKEP,"Blueknight Energy Partners, L.P.",NGM,NASDAQ,S,Equity
+BKCC,BlackRock Capital Investment Corporation,NGM,NASDAQ,S,Equity
+BKD,Brookdale Senior Living Inc.,NYQ,NYSE,S,Equity
+BKI,"Black Knight, Inc.",NYQ,NYSE,S,Equity
+BKH,Black Hills Corporation,NYQ,NYSE,S,Equity
+BKLN,Invesco Senior Loan ETF,PCX,NYSEArca,E,ETF

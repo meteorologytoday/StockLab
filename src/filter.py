@@ -20,13 +20,15 @@ print("Time: %s to %s", beg, end)
 def makeStockArray(stock_prices):
     prices = stock_prices['prices']
 
-    hs    = np.zeros((len(prices),), dtype=float)
-    ls    = np.zeros_like(hs)
-    vols  = np.zeros_like(hs)
-    clos  = np.zeros_like(hs)
-    opns  = np.zeros_like(hs)
+    ts    = np.zeros((len(prices),), dtype=float)
+    hs    = np.zeros_like(ts)
+    ls    = np.zeros_like(ts)
+    vols  = np.zeros_like(ts)
+    clos  = np.zeros_like(ts)
+    opns  = np.zeros_like(ts)
 
     for i, price in enumerate(prices):
+        ts[i] = price['date'] 
         hs[i] = price['high'] 
         ls[i] = price['low'] 
         vols[i] = price['volume'] 
