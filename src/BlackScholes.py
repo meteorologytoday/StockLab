@@ -17,10 +17,13 @@ def generate(N, s0, mu, sig, dt):
     return s
 
 
-def getResidual(s, mu, sig, dt):
+def getLogLikelihood(s, mu, sig, dt):
     
     lns = np.log(s)
-    return ((lns[1:] - lns[:-1]) - mu * dt) / (sig * (dt ** 0.5))
+    E = np.sum(((lns[1:] - lns[:-1]) - mu * dt) ** 2.0)
+    N = len(lns) - 1
+
+    return - N * (np.log(sig) + np.log(dt) / 2.0) - E / (2.0 * sig **2.0 * dt)
 
 
 
@@ -35,7 +38,7 @@ if __name__ == "__main__":
     dt = 86400.0
     s0  = 223.46
     sig = 10.0 / dt
-    mu  = 0.01 / dt
+    mu  = 0.05 / dt
     for i in range(lines):
         ts.append(generate(N, s0, mu, sig, dt))
         np.savetxt("data/Black_Scholes-%03d.txt" % i, ts[-1])
@@ -50,6 +53,6 @@ if __name__ == "__main__":
     for i in range(lines):
         ax.plot(t, ts[i])
 
-    plt.show()
+#    plt.show()
 
 
