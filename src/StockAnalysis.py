@@ -1,4 +1,5 @@
 import numpy as np
+import numpy.linalg as linalg
 
 def getAnalysis(ts):
     d = {}
@@ -9,6 +10,7 @@ def getAnalysis(ts):
     d['mva020'] = mva(ts, 20)
     d['mva060'] = mva(ts, 60)
     return d
+
 
 def mva(data, days):
     result = np.zeros(len(data))
