@@ -1,4 +1,3 @@
-*.pickle
 *.txt
 *.swp
 __pycache__

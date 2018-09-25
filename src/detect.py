@@ -95,8 +95,8 @@ for i, target_symbol in enumerate(target_symbols):
     # Detect
     ana = SA.getAnalysis(stock['close'])
 
-    long_term  = stock['close'][-75:]
-    short_term = stock['close'][-25:]
+    long_term  = stock['close'][-60:]
+    short_term = stock['close'][-20:]
 
     avg_price = np.mean(long_term)
 
