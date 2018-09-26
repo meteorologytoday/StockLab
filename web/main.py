@@ -1,5 +1,6 @@
 from bottle import route, run, template, static_file
 import os.path
+import pandas as pd
 
 root_dir = os.path.dirname(os.path.realpath(__file__))
 
@@ -16,5 +17,10 @@ def root():
 @route('/hello')
 def hello():
     return "Hello World!"
+
+@route('/analysis/<filename>')
+def analysis(filename):
+    df = pd.read_csv(os.path.join(root_dir, "static", filename))
+    return template("analysis", data=df)
 
 run(host='0.0.0.0', port=8080, debug=True)
