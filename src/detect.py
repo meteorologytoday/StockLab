@@ -1,6 +1,7 @@
 import datetime
 import numpy as np
 from scipy import stats
+from scipy import signal
 import pickle
 from yahoofinancials import YahooFinancials
 import pprint
@@ -47,6 +48,7 @@ def makeStockArray(stock_prices):
     }
 
 target = sys.argv[1]
+target_N = int(sys.argv[2])
 
 valid_stock_exchanges = {
     'US': [
@@ -71,10 +73,11 @@ valid_stock_exchanges = {
     ]
 }[target]
 
-print("Now select: %s" % sys.argv[1])
+print("Now select: %s" % target)
 print("Included Stock Exchange: ")
 print(valid_stock_exchanges)
 
+print("Going to test %d stocks." % target_N)
 
 filename = "../data/generic.pickle"
 
@@ -85,17 +88,29 @@ tickers = pickle.load( open(filename, "rb") )
 beg = (datetime.date.today() - datetime.timedelta(366)).strftime("%Y-%m-%d")
 end = (datetime.date.today() - datetime.timedelta(  1)).strftime("%Y-%m-%d")
 
+data = {}
+result = []
+
+
 print("Time: %s to %s" % (beg, end))
 
 # Randomly choose some stock ticker out
 print("Randomly pick tickers...")
-target_symbols = list(tickers.symbols.keys())
+tmp = list(tickers.symbols.keys())
+
+
+target_symbols = []
+
+for target_symbol in tmp:
+    # Judge exchange center
+    stock_exchange = tickers.symbols[target_symbol].exchange
+    if stock_exchange in valid_stock_exchanges:
+        target_symbols.append(target_symbol)
+
+
+print("There are %d target symbols." % len(target_symbols))
+
 random.shuffle(target_symbols)
-
-target_symbols = target_symbols
-data = {}
-
-result = []
 
 cnt = 0
 for i, target_symbol in enumerate(target_symbols):
@@ -126,26 +141,38 @@ for i, target_symbol in enumerate(target_symbols):
     #data[target_symbol] = SA.getAnalysis(clos)
     
     # Detect
-    ana = SA.getAnalysis(stock['close'])
+    close_p = stock['close']
+    close_p_clean = close_p[np.isfinite(close_p)] 
+    ana = SA.getAnalysis(close_p)
 
-    long_term  = stock['close'][-20:]
-    short_term = stock['close'][-5:]
+    long_term  = close_p[-20:]
+    short_term = close_p[-5:]
 
     avg_price = np.mean(long_term)
 
 
     long_slope, intercept, r_value, p_value, std_err = stats.linregress(range(len(long_term)), long_term)
     short_slope, intercept, r_value, p_value, std_err = stats.linregress(range(len(short_term)), short_term)
-    
-    if short_slope > long_slope and long_slope <= 0.0  and avg_price > 15.0:
-        result.append([target_symbol, long_slope, short_slope, avg_price])
+  
+
+    variability = np.mean(np.abs((close_p_clean[1:] - close_p_clean[:-1]) / avg_price))
+  
+    detrend = signal.detrend(close_p_clean) 
+    power = np.abs(np.fft.fft(detrend)) ** 2.0
+    tot_power = np.sum(power)
+    n = int(np.floor(len(detrend) / 30.0))
+    sw_rel_pow = np.sum(power[n:]) / tot_power
+
+ 
+    if short_slope > long_slope  and avg_price > 15.0 and sw_rel_pow > 0.1:
+        result.append([target_symbol, long_slope, short_slope, avg_price, variability])
         print("MATCH.")
     else:
 
         print("X.")
 
     cnt += 1
-    if cnt >= 10:
+    if cnt >= 100:
         break
 
 # Output data result
@@ -157,8 +184,8 @@ for target_symbol in result:
 
 
 
-df = pd.DataFrame(result, columns=["Symbol", "Long_term_slope", "Short_term_slope", "Avg_price"])
+df = pd.DataFrame(result, columns=["Symbol", "Long_term_slope", "Short_term_slope", "Avg_price", "Variability"])
 
-df.to_csv("../data/simple_analysis_%s.csv" % target, encoding='utf-8', index=False)
+df.to_csv("../data//simple_analysis_%s.csv" % target, encoding='utf-8', index=False)
 
 

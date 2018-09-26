@@ -26,6 +26,29 @@ def getLogLikelihood(s, mu, sig, dt):
     return - N * (np.log(sig) + np.log(dt) / 2.0) - E / (2.0 * sig **2.0 * dt)
 
 
+def getPosterior(x, mu_range, sig_range, dt, mu_n=10, sig_n=10, return_log=False):
+    # Flat prior assumed
+    mu_arr  = np.linspace(mu_range[0], mu_range[1], num=mu_n+1)
+    sig_arr = np.linspace(sig_range[0], sig_range[1], num=sig_n+1)
+
+    mu_arr = (mu_arr[1:] + mu_arr[:-1])/2.0
+    sig_arr = (sig_arr[1:] + sig_arr[:-1])/2.0
+
+    dsig = sig_arr[1] - sig_arr[0]
+    dmu  = mu_arr[1] - mu_arr[0]
+
+    p = np.zeros((len(mu_arr), len(sig_arr)), dtype=float)
+    for i, mu in enumerate(mu_arr):
+        for j, sig in enumerate(sig_arr):
+            p[i, j] = getLogLikelihood(x, mu, sig, dt)
+
+    if return_log == False:
+        p -= np.amax(p)
+        p = np.exp(p)
+        p /= np.sum(p) * dmu * dsig
+
+    return p, mu_arr, sig_arr
+
 
 if __name__ == "__main__":
 
