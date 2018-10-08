@@ -9,8 +9,8 @@ import StockAnalysis as SA
 import random
 import pandas as pd
 import sys
-
-
+import os.path
+import  detect_single 
 
 def makeStockArray(stock_prices):
 
@@ -56,7 +56,7 @@ valid_stock_exchanges = {
         'CME',
         'CMX',
         'DJI',
-        'NAS',
+#        'NAS',
         'NCM',
         'NGM',
         'NIM',
@@ -114,6 +114,10 @@ random.shuffle(target_symbols)
 
 cnt = 0
 for i, target_symbol in enumerate(target_symbols):
+
+    if target_symbol[0] == "^":
+        continue
+
     # Judge exchange center
     stock_exchange = tickers.symbols[target_symbol].exchange
     if stock_exchange not in valid_stock_exchanges:
@@ -139,40 +143,25 @@ for i, target_symbol in enumerate(target_symbols):
 
     #print(stock['close'])
     #data[target_symbol] = SA.getAnalysis(clos)
-    
-    # Detect
-    close_p = stock['close']
-    close_p_clean = close_p[np.isfinite(close_p)] 
-    ana = SA.getAnalysis(close_p)
+    a = detect_single.analysis(stock['close'])
 
-    long_term  = close_p[-20:]
-    short_term = close_p[-5:]
-
-    avg_price = np.mean(long_term)
-
-
-    long_slope, intercept, r_value, p_value, std_err = stats.linregress(range(len(long_term)), long_term)
-    short_slope, intercept, r_value, p_value, std_err = stats.linregress(range(len(short_term)), short_term)
-  
-
-    variability = np.mean(np.abs((close_p_clean[1:] - close_p_clean[:-1]) / avg_price))
-  
-    detrend = signal.detrend(close_p_clean) 
-    power = np.abs(np.fft.fft(detrend)) ** 2.0
-    tot_power = np.sum(power)
-    n = int(np.floor(len(detrend) / 30.0))
-    sw_rel_pow = np.sum(power[n:]) / tot_power
-
- 
-    if short_slope > long_slope  and avg_price > 15.0 and sw_rel_pow > 0.1:
-        result.append([target_symbol, long_slope, short_slope, avg_price, variability])
+    if a['long_slope'] > 0.0  and a['avg_price'] > 15.0 and a['sw_rel_pow'] > 0.1:
+        result.append([
+            target_symbol,
+            stock_exchange,
+            a['long_slope'],
+            a['short_slope'],
+            a['avg_price'], 
+            a['variability'],
+            a['sw_rel_pow'],
+        ])
         print("MATCH.")
     else:
 
         print("X.")
 
     cnt += 1
-    if cnt >= 100:
+    if cnt >= target_N:
         break
 
 # Output data result
@@ -184,8 +173,8 @@ for target_symbol in result:
 
 
 
-df = pd.DataFrame(result, columns=["Symbol", "Long_term_slope", "Short_term_slope", "Avg_price", "Variability"])
+df = pd.DataFrame(result, columns=["Symbol", "Exchange", "Long_term_slope", "Short_term_slope", "Avg_price", "Variability", "shortwave_relative_power"])
 
-df.to_csv("../data//simple_analysis_%s.csv" % target, encoding='utf-8', index=False)
+df.to_csv(os.path.join("..", 'web', 'static', "simple_analysis_%s.csv" % target), encoding='utf-8', index=False)
 
 
